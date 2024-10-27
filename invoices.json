@@ -20,7 +20,8 @@
 				{
 					"description": "Test2",
 					"amount": "2"
-				}
+				},
+				{}
 			]
 		},
 		{
